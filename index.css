@@ -1,0 +1,27 @@
+/* h1{
+    color:rgb(135, 19, 42)
+
+}
+
+.titulo{
+    color: rgb(255, 196, 0);
+    background-color: rgb(78, 199, 8);
+}  */
+
+.faq{
+    background-color: darkblue;
+    width: 50%;
+    margin: 0 auto;
+    list-style: none;
+}
+.faq li{
+ background-color: #524e51;
+}
+.faq summary{
+    padding: 16px;
+}
+.faq p{
+    background-color: rgb(0, 0, 0);
+    padding: 16px;
+    color: #FFFFFF50;
+}
